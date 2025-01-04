@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <div className="container">
-        <a className="navbar-brand" href="/">Pushnetic</a>
+        <a className="navbar-brand" href="/">Sell-Cross</a>
         <button
           className="navbar-toggler"
           type="button"
